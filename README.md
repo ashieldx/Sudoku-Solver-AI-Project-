@@ -1,12 +1,11 @@
 # Sudoku-Solver-AI-Project-
-YOU MUST HAVE PYTHON VER 3 TO RUN THIS CODE
+YOU MUST HAVE PYTHON VER 3.0+ TO RUN THIS CODE
 
 LIBRARY INSTALLATIONS:
 
+WINDOWS
 -pyautogui
-
 pip3 install pyautogui
 
 -numpy
-
-numpy install pyaugotui
+pip3 install numpy
