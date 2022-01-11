@@ -6,7 +6,9 @@ LIBRARY INSTALLATIONS:
 WINDOWS
 
 -pyautogui
+
 pip3 install pyautogui
 
 -numpy
+
 pip3 install numpy
