@@ -4,6 +4,7 @@ YOU MUST HAVE PYTHON VER 3.0+ TO RUN THIS CODE
 LIBRARY INSTALLATIONS:
 
 WINDOWS
+
 -pyautogui
 pip3 install pyautogui
 
